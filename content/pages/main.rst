@@ -7,7 +7,7 @@ IWCS London 2015
 :template: main
 :date: 2014-09-16 20:58
 
-
+IMC!
 The 11th International Conference on Computational Semantics
 (IWCS 2015) will be held at `Queen Mary University of London`_, UK on
 14-17th April 2015. IWCS is the bi-yearly meeting of SIGSEM_, the ACL_
