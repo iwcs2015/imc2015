@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'The chairs of IWCS 2015'
-SITENAME = u'IWCS 2015'
+AUTHOR = u'The chairs of IMC @ IWCS 2015'
+SITENAME = u'IMC @ IWCS 2015'
 SITEURL = ''
 
 PATH = 'content'
@@ -28,9 +28,8 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
-    ('Call for papers', 'call-for-papers.html'),
-    ('Workshops', 'workshops-at-iwcs-2015.html'),
-    ('Submissions', 'pages/instructions-for-authors.html'),
+    ('Speakers', 'pages/speakers.html'),
+    ('Programme', 'pages/programme.html'),
     ('Organisation', 'pages/organisation.html'),
 )
 
