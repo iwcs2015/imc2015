@@ -15,7 +15,7 @@ The workshop will consist of presentations by invitation. Speakers will include:
 
  * Nicholas Asher (Institut de Recherche en Informatique de Toulouse, CNRS)
  * Robin Cooper (University of Gothenburg)
- * Stergios Chatzikyriakidis (LRMM, University of Montpelier)
+ * Stergios Chatzikyriakidis (LRMM, University of Montpellier)
  * Eleni Gregoromichelaki and Ruth Kempson (King's College London)
  * Pat Healey and Christine Howes  (QMUL/University of Gothenburg)
  * Staffan Larsson  (University of Gothenburg)
