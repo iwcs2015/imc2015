@@ -30,6 +30,8 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
     ('Speakers', 'pages/speakers.html'),
     ('Programme', 'pages/programme.html'),
+    ('Proceedings', 'pages/proceedings.html'),
+    ('Submissions', 'pages/submissions.html'),
     ('Organisation', 'pages/organisation.html'),
 )
 
@@ -55,6 +57,7 @@ DEFAULT_PAGINATION = False
 
 STATIC_PATHS = (
     'static/images',
+    'static/proc.pdf',
 )
 
 LOGO_PATH = 'images/cover.jpg'
