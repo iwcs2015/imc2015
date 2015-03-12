@@ -15,8 +15,3 @@ Workshop Organisers
 * **Robin Cooper**         University of Gothenburg 
 * **Matthew Purver**       Queen Mary University of London
 
-
-Programme Committee
-===================
-
-TBD

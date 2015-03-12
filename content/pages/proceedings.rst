@@ -13,4 +13,4 @@ Proceedings
 
 You can download the abstracts here:
 
- * `Full volume <../static/proc.pdf>`__
+* `Full volume <../static/proc.pdf>`__
