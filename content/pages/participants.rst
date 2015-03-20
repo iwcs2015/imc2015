@@ -7,6 +7,9 @@ Speakers
 :category: Invited Speakers
 :author: Matthew Purver
 
+:date: 2015-03-12 10:00
+:news_headline: List of speakers finalised
+
 
 Invited Speakers
 ================
