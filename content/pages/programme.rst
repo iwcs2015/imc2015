@@ -36,8 +36,8 @@ Workshop Programme
 4.30  4.50  *tea*
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
 4.50  5.10  Howes/Healey                               What we ought to know: Making and breaking common ground
-5.10  5.30  Kelleher/Dobnik                            A Model for Attention-Driven Judgements in Type Theory with Records
-5.30  5.50  Breitholtz                                 Enthymematic Reasoning in Dialogue
+5.10  5.30  Breitholtz                                 Enthymematic Reasoning in Dialogue
+5.30  5.50  Kelleher/Dobnik                            A Model for Attention-Driven Judgements in Type Theory with Records
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
 5:50  6:30  White et al                                Workshop Summary and Discussion
 ===== ===== ========================================== ==================================================================
