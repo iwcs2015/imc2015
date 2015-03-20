@@ -49,3 +49,13 @@ table td, table.table th {
 th.field-name {
     text-align: left;
 }
+
+table.schedule {
+    border: 1px solid black !important;
+    margin: 10px;
+}
+
+table.schedule td {
+    border: 1px solid black !important;
+    padding: 0px 10px;
+}
