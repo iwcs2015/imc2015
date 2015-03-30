@@ -30,8 +30,8 @@ Workshop Programme
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
 1.50  2.30  Purver/Sadrzadeh                           From Distributional Semantics to Distributional Pragmatics?
 2.30  3.10  Piwek                                      Two accounts of ambiguity in a dialogical theory of meaning
-3.10  3.50  Hough/Schlangen                            Inferring Meaning From Disfluencies in an Incremental Dialogue Framework
-3.50  4.30  Chatzikyriakidis/Kempson/Gregoromichelaki  Language as a set of mechanisms for interaction
+3.10  3.50  Chatzikyriakidis/Kempson/Gregoromichelaki  Language as a set of mechanisms for interaction
+3.50  4.30  Hough/Schlangen                            Inferring Meaning From Disfluencies in an Incremental Dialogue Framework
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
 4.30  4.50  *tea*
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
