@@ -14,6 +14,12 @@ Programme
 Workshop Programme
 ==================
 
+The workshop will be held in **Room 1.02.6** in the **Bancroft Building** on
+Queen Mary University of London's Mile End campus. See the IWCS 2015 website for
+directions and a map: `IWCS 2015 Location`__.
+
+  __ http://iwcs2015.github.io/location.html
+
 .. class:: schedule
 
 ===== ===== ========================================== ==================================================================
