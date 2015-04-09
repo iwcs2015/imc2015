@@ -48,3 +48,10 @@ directions and a map: `IWCS 2015 Location`__.
 5:50  6:30  White et al                                Workshop Summary and Discussion
 ===== ===== ========================================== ==================================================================
 
+After that we'll go to dinner at Sông Quê:
+
+`Sông Quê Café <http://www.songque.co.uk/>`__
+
+134 Kingsland Road,
+London E2 8DY,
+020 7613 3222
