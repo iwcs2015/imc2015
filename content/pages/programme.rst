@@ -32,15 +32,15 @@ directions and a map: `IWCS 2015 Location`__.
 11.50 12.30 Larsson                                    Situated Construction and Coordination of Perceptual Meaning
 12.30 1.10  Asher                                      Computing Discourse Structures for Dialogues from the Stac Corpus
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
-1.10  1:50  *lunch*
+1.10  2:00  *lunch*
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
-1.50  2.30  Purver/Sadrzadeh                           From Distributional Semantics to Distributional Pragmatics?
-2.30  3.10  Piwek                                      Two accounts of ambiguity in a dialogical theory of meaning
-3.10  3.50  Chatzikyriakidis/Kempson/Gregoromichelaki  Language as a set of mechanisms for interaction
-3.50  4.30  Hough/Schlangen                            Inferring Meaning From Disfluencies in an Incremental Dialogue Framework
+2.00  2.40  Hough/Schlangen                            Inferring Meaning From Disfluencies in an Incremental Dialogue Framework
+2.40  3.20  Piwek                                      Two accounts of ambiguity in a dialogical theory of meaning
+3.20  4.00  Chatzikyriakidis/Kempson/Gregoromichelaki  Language as a set of mechanisms for interaction
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
-4.30  4.50  *tea*
+4.00  4.30  *tea*
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
+4.30  4.50  Purver/Sadrzadeh                           From Distributional Semantics to Distributional Pragmatics?
 4.50  5.10  Howes/Healey                               What we ought to know: Making and breaking common ground
 5.10  5.30  Breitholtz                                 Enthymematic Reasoning in Dialogue
 5.30  5.50  Kelleher/Dobnik                            A Model for Attention-Driven Judgements in Type Theory with Records
