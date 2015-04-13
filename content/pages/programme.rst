@@ -40,12 +40,11 @@ directions and a map: `IWCS 2015 Location`__.
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
 4.00  4.30  *tea*
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
-4.30  4.50  Purver/Sadrzadeh                           From Distributional Semantics to Distributional Pragmatics?
-4.50  5.10  Howes/Healey                               What we ought to know: Making and breaking common ground
-5.10  5.30  Breitholtz                                 Enthymematic Reasoning in Dialogue
-5.30  5.50  Kelleher/Dobnik                            A Model for Attention-Driven Judgements in Type Theory with Records
+4.30  5.00  Purver/Sadrzadeh                           From Distributional Semantics to Distributional Pragmatics?
+5.00  5.20  Howes/Healey                               What we ought to know: Making and breaking common ground
+5.20  5.40  Kelleher/Dobnik                            A Model for Attention-Driven Judgements in Type Theory with Records
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
-5:50  6:30  White et al                                Workshop Summary and Discussion
+5:40  6:30  White et al                                Workshop Summary and Discussion
 ===== ===== ========================================== ==================================================================
 
 After that we'll go to dinner at Sông Quê:
