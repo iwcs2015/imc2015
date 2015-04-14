@@ -34,9 +34,9 @@ directions and a map: `IWCS 2015 Location`__.
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
 1.10  2:00  *lunch*
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
-2.00  2.40  Hough/Schlangen                            Inferring Meaning From Disfluencies in an Incremental Dialogue Framework
+2.00  2.40  Chatzikyriakidis/Kempson/Gregoromichelaki  Language as a set of mechanisms for interaction
 2.40  3.20  Piwek                                      Two accounts of ambiguity in a dialogical theory of meaning
-3.20  4.00  Chatzikyriakidis/Kempson/Gregoromichelaki  Language as a set of mechanisms for interaction
+3.20  4.00  Hough/Schlangen                            Inferring Meaning From Disfluencies in an Incremental Dialogue Framework
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
 4.00  4.30  *tea*
 ----- ----- ------------------------------------------ ------------------------------------------------------------------
