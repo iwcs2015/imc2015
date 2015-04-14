@@ -47,7 +47,7 @@ directions and a map: `IWCS 2015 Location`__.
 5:40  6:30  White et al                                Workshop Summary and Discussion
 ===== ===== ========================================== ==================================================================
 
-After that we'll go to dinner at Sông Quê:
+After that we'll go to dinner at Sông Quê, table booked for 7pm:
 
 `Sông Quê Café <http://www.songque.co.uk/>`__
 
